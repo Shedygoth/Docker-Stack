@@ -2,7 +2,7 @@
 
 За да стартирате Уеб стака просто въведете
 
-**docker-compose up **
+**docker-compose up**
 
 А ако искате да работи като deamon
 
